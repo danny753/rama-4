@@ -6,6 +6,9 @@
     <artifactId>effectivemaven-parent</artifactId>
     <version>1-SNAPSHOT</version>
     <relativePath>../effectivemaven-parent/pom.xml</relativePath>
+	<properties>
+	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
   </parent>
   <name>Centrepoint</name>
   <groupId>com.effectivemaven.centrepoint</groupId>
