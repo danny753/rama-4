@@ -3,6 +3,8 @@ To build and use the application:
  cd centrepoint
  mvn clean install
 
+ This is added content
+
 After a successful build, the file distribution/target/centrepoint-1.0-SNAPSHOT-bin.zip contains
 the full standalone application.
 
